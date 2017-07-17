@@ -27,7 +27,6 @@ function displayUser(){
     </div>
 
 
-    </card>
     `
    main.innerHTML =  template;
 
