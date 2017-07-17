@@ -11,10 +11,10 @@ function displayUser(){
         <h2>The Basics</h2>
         <div class =userInfo>
           <ul style="list-style-type:none">
-           <li>Name: ${data.name}
-           <li>Github URL: <a href="https://github.com/Adrianwritenow">${data.login}</a>
-           <li>Email: <a href="">${data.email}</a>
-           <li>Website: <a href="">${data.blog} </a>
+           <li><span>Name</span>: ${data.name}</li>
+           <li><span>Github URL<span>: <a href=" https://github.com/Adrianwritenow">${data.login}</a></li>
+           <li><span>Email<span>: <a href=" ">${data.email}</a></li>
+           <li><span>Website</span>:<a href=" "> ${data.blog} </a></li>
           </ul>
         </div>
       </div>

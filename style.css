@@ -45,11 +45,10 @@ h2{
 
 
 
-.cardInfo li{
+ li{
   color: #9D9D9D;
   line-height: 25px;
   font-family:  "Times New Roman", Times, serif;
-
 
 }
 .cardStory{
@@ -75,6 +74,9 @@ img {
   height: 110px;
   margin-top: 50px;
   margin-left: -60px;
+}
+span{
+  color: #77ADAD;
 }
 a:link {
     color: black;
